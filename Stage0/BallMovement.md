@@ -8,7 +8,7 @@ This module controls the ball instance.
 It consists of-
   BallMotion -which moves the ball in the field(Changes the co-ordinates of Ball)
   BallCollision -checks if the ball collides with the wall or slab
-  PlaceBallInCentre - Resets position of the ball to the centre
+  PlaceBallInCentre - Resets position of the ball to the center
 
 ## Acceptance Criteria
 
