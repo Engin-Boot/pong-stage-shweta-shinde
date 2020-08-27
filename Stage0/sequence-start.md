@@ -13,7 +13,7 @@ Given that the game initializes and Menu is visible
 ## Movement Initiation-describe-how-modules-interact-to-make-the-ball-move
 
 There are four entities initialized-
-    one instance of class GameBall, two instances of Slabs, one instance of ScoreKeeper.
+    one instance of class Ball, two instances of Slab, one instance of ScoreKeeper.
     The fieldInitializer method initials the member field of all instances.
 The GameController Module controls all the functionalities of the game
 The BallMovement Module controls the motion of the ball

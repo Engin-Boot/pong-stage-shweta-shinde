@@ -9,7 +9,7 @@ This module controls the every game functions
 
 ## Acceptance Criteria
 
-### Scenario: When user opens the PingPong Game
+### Scenario: When user opens the Ping Pong Game
 
   Given -The Menu Options are Visible
 
@@ -24,4 +24,3 @@ This module controls the every game functions
   When -The ScoreKeeper returns "WINNER"
 
   Then -Game End, Display the "WINNER" player
-  

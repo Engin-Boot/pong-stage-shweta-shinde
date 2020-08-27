@@ -6,5 +6,7 @@ It decides which Player wins
 ## Functionality
 
 Consists of-
-    addPenalty function- increments Penalty for respective Player
-    checkPenalty function - checks if any of the penalty field is greater than the MAXLIMIT
+    addPenalty function-
+    increments Penalty for respective Player
+    checkPenalty function-
+    checks if any of the penalty field is greater than the MAXLIMIT

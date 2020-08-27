@@ -6,7 +6,7 @@ This module controls the ball instance.
 ## Feature
 
 It consists of-
-  BallMotion -which moves the ball in the field(Changes the coordinates of Ball)
+  BallMotion -which moves the ball in the field(Changes the co-ordinates of Ball)
   BallCollision -checks if the ball collides with the wall or slab
   PlaceBallInCentre - Resets the coordinates of the ball to the centre
 
