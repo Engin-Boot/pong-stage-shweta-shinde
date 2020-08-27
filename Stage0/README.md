@@ -24,14 +24,15 @@ graph TD;
     Slab-->SlabMovement;
 
 ```
+
 ## Flow Diagram
 
 ```mermaid
 graph TD
-	A[OPEN] --> B[MENU OPTIONS]
+    A[OPEN] --> B[MENU OPTIONS]
     B[MENU OPTIONS] --> |onClick START button|C(Initialization)
     B --> |onClick EXIT button|Z(EXIT)
-	C --> D(Place ball in the middle of field);
+    C --> D(Place ball in the middle of field);
     D --> E(Move ball);
     C --> |on SlabChangeEventListener|F(Move slabs);
     E --> G{If ball hits on slab};
@@ -43,4 +44,3 @@ graph TD
     L --> |Yes| M(Declare the winner)-->B
 
 ```
-

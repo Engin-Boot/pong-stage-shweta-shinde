@@ -1,8 +1,11 @@
+
 # Game Controller
-Consists of BallMovement, SlabMovement and ScoreKeeper module 
+
+Consists of BallMovement, SlabMovement and ScoreKeeper module
 
 ## Feature
-This module controls the every game functions 
+
+This module controls the every game functions
 
 ## Acceptance Criteria
 
@@ -21,4 +24,4 @@ This module controls the every game functions
   When -The ScoreKeeper returns "WINNER"
 
   Then -Game End, Display the "WINNER" player
-
+  
